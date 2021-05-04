@@ -1,0 +1,1 @@
+&& sim.simxGetLastCmdTime(clientID) == 0
